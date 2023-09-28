@@ -1,0 +1,20 @@
+{
+  "name": "batscripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "electron": "^26.2.3",
+    "node-notifier": "^10.0.1"
+  }
+}
